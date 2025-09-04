@@ -44,8 +44,8 @@ Meu objetivo é unir conhecimento técnico com propósito, contribuindo para amb
 
 Estou sempre aberto a trocar ideias, colaborar em projetos e aprender coisas novas. Sinta-se à vontade para me encontrar nas redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-ads)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.charles4927@gmail.com)
 
 > "Transformar dados em decisões inteligentes e resultados concretos." ✨
 
